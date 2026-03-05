@@ -1,5 +1,5 @@
 {
-  "autocensor": true,
+  "autocensor": false,
   "welcome": true,
   "goodbye": true
 }
