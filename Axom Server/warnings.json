@@ -1,42 +1,5 @@
 {
   "1476327896657297663": [],
   "1469640820511608952": [],
-  "1226528945604792363": [
-    {
-      "id": 1,
-      "reason": "Censored word: bitch",
-      "warner": "Auto-Censor",
-      "timestamp": "2026-03-06 14:46:15"
-    },
-    {
-      "id": 2,
-      "reason": "Censored word: nigga",
-      "warner": "Auto-Censor",
-      "timestamp": "2026-03-06 14:46:24"
-    },
-    {
-      "id": 3,
-      "reason": "Censored word: bitch",
-      "warner": "Auto-Censor",
-      "timestamp": "2026-03-06 15:00:41"
-    },
-    {
-      "id": 4,
-      "reason": "Censored word: fuck",
-      "warner": "Auto-Censor",
-      "timestamp": "2026-03-06 15:00:45"
-    },
-    {
-      "id": 5,
-      "reason": "test 1",
-      "warner": "realx_apx",
-      "timestamp": "2026-03-06 15:03:42"
-    },
-    {
-      "id": 6,
-      "reason": "test",
-      "warner": "realx_apx",
-      "timestamp": "2026-03-06 15:03:50"
-    }
-  ]
+  "1226528945604792363": []
 }
