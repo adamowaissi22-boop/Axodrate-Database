@@ -13,6 +13,12 @@
       "reason": "Censored word: nigga",
       "warner": "Auto-Censor",
       "timestamp": "2026-03-06 14:46:24"
+    },
+    {
+      "id": 3,
+      "reason": "Censored word: bitch",
+      "warner": "Auto-Censor",
+      "timestamp": "2026-03-06 15:00:41"
     }
   ]
 }
