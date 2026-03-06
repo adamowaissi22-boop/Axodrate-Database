@@ -3,5 +3,5 @@
   "welcome": true,
   "goodbye": true,
   "antispam": true,
-  "censor": true
+  "censor": false
 }
