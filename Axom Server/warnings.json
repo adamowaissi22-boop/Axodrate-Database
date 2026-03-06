@@ -7,6 +7,12 @@
       "reason": "Censored word: tf",
       "warner": "Auto-Censor",
       "timestamp": "2026-03-06 15:19:14"
+    },
+    {
+      "id": 2,
+      "reason": "Censored word: tf",
+      "warner": "Auto-Censor",
+      "timestamp": "2026-03-06 15:25:20"
     }
   ]
 }
