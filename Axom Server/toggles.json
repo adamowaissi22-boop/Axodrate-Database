@@ -2,5 +2,6 @@
   "autocensor": false,
   "welcome": true,
   "goodbye": true,
-  "antispam": true
+  "antispam": true,
+  "censor": true
 }
