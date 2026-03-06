@@ -1,4 +1,6 @@
 {
-  "enabled_types": [],
+  "enabled_types": [
+    "all"
+  ],
   "channel_id": 1453693771828035688
 }
