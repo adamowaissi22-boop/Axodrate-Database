@@ -383,5 +383,12 @@
     "balance": 3,
     "last_work": 0,
     "last_message_time": 1772984254.752001
+  },
+  "1228375964187103337": {
+    "level": 1,
+    "xp": 0,
+    "balance": 0,
+    "last_work": 0,
+    "last_message_time": 0
   }
 }
