@@ -726,5 +726,12 @@
     "balance": 3,
     "lastWork": 0,
     "lastMessageTime": 1779537219.733
+  },
+  "1078809378460811264": {
+    "level": 1,
+    "xp": 0,
+    "balance": 0,
+    "lastWork": 0,
+    "lastMessageTime": 0
   }
 }
